@@ -1,21 +1,20 @@
 {
-"speeches": [
-{
-        "id": 1,
-        "title": "Test 1",
-        "content": "Test Test Test",
-        "author": "Test T. Test",
-        "date": "2020-02-20",
-        "keywords": "test,test,test",
+   "speeches":[
+      {
+         "id":1,
+         "title":"Test 1",
+         "content":"Test Test Test",
+         "author":"Test T. Test",
+         "date":"2020-02-20",
+         "keywords":"test,test,test"
       },
       {
-        "id": 2,
-        "title": "Test 2",
-        "content":
-          "Test 2Test Test The styling for this basic card example is created by using default Bootstrap utility classes. By using utility classes, the style of the card component can be easily modified with no need for any custom CSS! The styling for this basic card example is created by using default Bootstrap utility classes. By using utility classes, the style of the card component can be easily modified with no need for any custom CSS! The styling for this basic card example is created by using default Bootstrap utility classes. By using utility classes, the style of the card component can be easily modified with no need for any custom CSS! The styling for this basic card example is created by using default Bootstrap utility classes. By using utility classes, the style of the card component can be easily modified with no need for any custom CSS! The styling for this basic card example is created by using default Bootstrap utility classes. By using utility classes, the style of the card component can be easily modified with no need for any custom CSS! The styling for this basic card example is created by using default Bootstrap utility classes. By using utility classes, the style of the card component can be easily modified with no need for any custom CSS! The styling for this basic card example is created by using default Bootstrap utility classes. By using utility classes, the style of the card component can be easily modified with no need for any custom CSS! The styling for this basic card example is created by using default Bootstrap utility classes. By using utility classes, the style of the card component can be easily modified with no need for any custom CSS!",
-        "author": "Test 2T. Test",
-        "date": "2020-02-20",
-        "keywords": "test,t2est,test",
+         "id":2,
+         "title":"Test 2",
+         "content":"Test 2Test Test The styling for this basic card example is created by using default Bootstrap utility classes. By using utility classes, the style of the card component can be easily modified with no need for any custom CSS! The styling for this basic card example is created by using default Bootstrap utility classes. By using utility classes, the style of the card component can be easily modified with no need for any custom CSS! The styling for this basic card example is created by using default Bootstrap utility classes. By using utility classes, the style of the card component can be easily modified with no need for any custom CSS! The styling for this basic card example is created by using default Bootstrap utility classes. By using utility classes, the style of the card component can be easily modified with no need for any custom CSS! The styling for this basic card example is created by using default Bootstrap utility classes. By using utility classes, the style of the card component can be easily modified with no need for any custom CSS! The styling for this basic card example is created by using default Bootstrap utility classes. By using utility classes, the style of the card component can be easily modified with no need for any custom CSS! The styling for this basic card example is created by using default Bootstrap utility classes. By using utility classes, the style of the card component can be easily modified with no need for any custom CSS! The styling for this basic card example is created by using default Bootstrap utility classes. By using utility classes, the style of the card component can be easily modified with no need for any custom CSS!",
+         "author":"Test 2T. Test",
+         "date":"2020-02-20",
+         "keywords":"test,t2est,test"
       }
-]
+   ]
 }
